@@ -1,3 +1,5 @@
 matplotlib
 streamlit
 pandas
+git+https://github.com/streamlit/files-connection
+s3fs
